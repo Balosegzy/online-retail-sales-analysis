@@ -1,5 +1,7 @@
-Dataset: UCI Online Retail
-541,909 records
-Date range
-8 fields
-Original dataset/source information
+## Dataset
+
+- Source: UCI Machine Learning Repository — Online Retail
+- Records: 541,909
+- Columns: 8
+- Period: 1 December 2010 – 9 December 2011
+- Data type: Transactional online retail data
